@@ -1,0 +1,22 @@
+body {
+	background-image: url('background.png');
+	background-size: 100% auto;
+}
+
+.item {
+	height:45px;
+	width:45px;
+}
+
+#itemDiv {
+	margin-top: 100px;
+	width: 80%;
+}
+
+.lit {
+	opacity: 1;
+}
+
+.dim {
+	opacity: 0.3;
+}
